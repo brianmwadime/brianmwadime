@@ -3,10 +3,10 @@ My name is Brian Mwadime, a software developer from Nairobi, Kenya.
 
 ## About Me
 - 🚀 A Frontend/Mobile Developer 
-- 5+ years of experience in the design and development of multiple apps.
-- Experience in developing B2C applications.
+- 5+ years of experience.
+- Experience working remotely.
 - Experience working with product and design teams.
-- Interests include Programming, Tech, Android, iOS, Finance, Investment, Health.
+- Interests include Programming, Tech, Android, iOS, Flutter, Finance, Investment, Education, E-ccommerce, Health.
 
 ## Github Stats
 
